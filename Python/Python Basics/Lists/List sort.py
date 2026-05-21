@@ -1,4 +1,4 @@
-a = [0,100,1,200,33]
+sa = [0,100,1,200,33]
 for i in range(len(a)):
     for j in range(len(a)-1):
         if a[i] < a[j]:
